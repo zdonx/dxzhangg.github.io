@@ -1,0 +1,1 @@
+const t={key:"v-f00f5c22",path:"/documents/php/2022_qa.html",title:"2022 PHP Q&A",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653450675e3,contributors:[{name:"dxzhangg",email:"dxzhangg@foxmail.com",commits:1}]},filePathRelative:"documents/php/2022_qa.md"};export{t as data};

@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,a as _,b as o}from"./app.d2ac80f5.js";const s={},c={id:"_2022-php-q-a",tabindex:"-1"},r=_("a",{class:"header-anchor",href:"#_2022-php-q-a","aria-hidden":"true"},"#",-1),n=o(" 2022 PHP Q&A"),d=[r,n];function h(i,f){return a(),t("h1",c,d)}var p=e(s,[["render",h],["__file","2022_qa.html.vue"]]);export{p as default};

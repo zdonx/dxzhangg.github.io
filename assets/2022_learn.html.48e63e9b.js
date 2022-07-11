@@ -1,0 +1,1 @@
+const e={key:"v-3b0e8e2f",path:"/documents/php/2022_learn.html",title:"2022 MySQL Learn",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653450675e3,contributors:[{name:"dxzhangg",email:"dxzhangg@foxmail.com",commits:1}]},filePathRelative:"documents/php/2022_learn.md"};export{e as data};

@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,a as _,b as r}from"./app.d2ac80f5.js";const n={},o={id:"_2022-php-learn",tabindex:"-1"},s=_("a",{class:"header-anchor",href:"#_2022-php-learn","aria-hidden":"true"},"#",-1),c=r(" 2022 PHP Learn"),d=[s,c];function h(i,l){return a(),t("h1",o,d)}var p=e(n,[["render",h],["__file","2022_learn.html.vue"]]);export{p as default};

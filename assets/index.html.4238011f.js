@@ -1,0 +1,1 @@
+const e={key:"v-33b3842a",path:"/documents/linux/",title:"\u7B80\u4ECB",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:16540717e5,contributors:[{name:"dxzhangg",email:"dxzhangg@foxmail.com",commits:1}]},filePathRelative:"documents/linux/index.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-9838e3d2",path:"/documents/go/",title:"Go\u7B80\u4ECB",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u63CF\u8FF0",slug:"\u63CF\u8FF0",children:[]}],git:{updatedTime:1653450675e3,contributors:[{name:"dxzhangg",email:"dxzhangg@foxmail.com",commits:1}]},filePathRelative:"documents/go/index.md"};export{e as data};

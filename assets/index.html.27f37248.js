@@ -1,0 +1,1 @@
+const e={key:"v-6edb8c32",path:"/documents/php/",title:"PHP\u7B80\u4ECB",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1653381401e3,contributors:[{name:"dxzhangg",email:"dxzhangg@foxmail.com",commits:1}]},filePathRelative:"documents/php/index.md"};export{e as data};
